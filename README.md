@@ -11,5 +11,12 @@ Page statique créée pour dominer le monde
 
 </body>
 </html>
-<h2>LUNDI 16 JUIN 2025</h2>
-<p>j'ai commencé</p>
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+  <header id="header">
+    <h1>Bienvenue sur mon site</h1>
+    <p>Page statique,</p>
+<link rel="stylesheet" href="https://github.com/LegendLloyd/legendlloyd.github.io/tree/main">
+<body> 
+<img src="
