@@ -19,4 +19,4 @@ Page statique créée pour dominer le monde
     <p>Page statique,</p>
 <link rel="stylesheet" href="https://github.com/LegendLloyd/legendlloyd.github.io/tree/main">
 <body> 
-<img src="
+<img src="img_starplatinum.jpg" alt="STAND" syle=widht"100">
